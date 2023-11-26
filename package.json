@@ -168,7 +168,7 @@
     "reflect-metadata": "^0.1.12",
     "sanitize-html": "2.x",
     "sequelize": "6.31.1",
-    "sequelize-typescript": "^2.0.0-beta.1",
+    "sequelize-typescript": "^2.1.6",
     "short-uuid": "^4.2.0",
     "sitemap": "^7.0.0",
     "socket.io": "^4.5.4",
