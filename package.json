@@ -166,7 +166,7 @@
     "proxy-addr": "^2.0.7",
     "pug": "^3.0.0",
     "reflect-metadata": "^0.1.12",
-    "sanitize-html": "2.x",
+    "sanitize-html": "2.12.1",
     "sequelize": "6.31.1",
     "sequelize-typescript": "^2.0.0-beta.1",
     "short-uuid": "^4.2.0",
