@@ -147,7 +147,7 @@
     "lodash-es": "^4.17.21",
     "lru-cache": "^9.1.1",
     "magnet-uri": "^6",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^13.0.2",
     "markdown-it-emoji": "^2.0.0",
     "maxmind": "^4.3.6",
     "memoizee": "^0.4.14",
