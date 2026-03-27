@@ -154,7 +154,7 @@
     "morgan": "^1.5.3",
     "multer": "^1.4.5-lts.1",
     "node-media-server": "^2.1.4",
-    "nodemailer": "^6.0.0",
+    "nodemailer": "^8.0.4",
     "opentelemetry-instrumentation-sequelize": "^0.39.1",
     "otpauth": "^9.0.2",
     "p-queue": "^7.3.4",
